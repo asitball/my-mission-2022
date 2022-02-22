@@ -1,3 +1,34 @@
 body{
     font-family: 'PT Sans', sans-serif;
+    margin: 0% 5%;
+}
+h1{
+    font-size: 60px;
+    font-weight:bold;
+}
+p{
+    font-size: 20px;
+    color: #565656;
+    text-align: justify;
+}
+.text-highlight{
+    color: blue;
+}
+.half-width{
+    width: 45%;
+    margin: 15px;
+    padding: 15px;
+    float: left;
+}
+.anchor-button{
+    text-decoration: none;
+    background-color:blue;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.top-image{
+    width: 80%;
+    margin:10px;
+    padding: 10px;
 }
