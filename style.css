@@ -15,9 +15,9 @@ p{
     color: blue;
 }
 .half-width{
-    width: 45%;
+    width: 40%;
     margin: 15px;
-    padding: 15px;
+    padding: 25px;
     float: left;
 }
 .anchor-button{
@@ -28,7 +28,13 @@ p{
     border-radius: 5px;
 }
 .top-image{
-    width: 80%;
+    width: 100%;
     margin:10px;
-    padding: 10px;
+    padding: 25px;
+}
+.mission-details-area{
+    width: 26%;
+    float: left;
+    margin:0px 20px;
+    padding: 0px 20px;
 }
