@@ -20,6 +20,10 @@ p{
     padding: 25px;
     float: left;
 }
+#left-border{
+    border-left: 4px solid red;
+    height: 100%;
+}
 .anchor-button{
     text-decoration: none;
     background-color:blue;
@@ -62,4 +66,12 @@ p{
  }
 .third-section{
     margin: 500px 0px;
+}
+.portfolio-section img{
+    float: left;
+    width: 28%;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid gray;
+    border-radius: ;
 }
