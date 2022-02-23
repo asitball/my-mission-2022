@@ -39,6 +39,9 @@ p{
     padding: 0px 20px;
     border-radius: 10px;
 }
+.mission-title{
+    text-align: center;
+}
 .mission-details-image{
     width: 150px;
 }
@@ -50,4 +53,13 @@ p{
 }
 #goals{
     background-color: #6e3ecc;
+}
+/* .half-width img{
+    width: 100%;
+} */
+ .project-img{
+     width: 100%;
+ }
+.third-section{
+    margin: 500px 0px;
 }
