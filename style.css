@@ -37,4 +37,17 @@ p{
     float: left;
     margin:0px 20px;
     padding: 0px 20px;
+    border-radius: 10px;
+}
+.mission-details-image{
+    width: 150px;
+}
+#mission{
+    background-color: aquamarine;
+}
+#vission{
+    background-color: antiquewhite;
+}
+#goals{
+    background-color: #6e3ecc;
 }
