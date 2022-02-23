@@ -25,7 +25,6 @@ p{
     margin: 15px;
     padding: 25px;
     float: left;
-    flex-direction: row;
 }
 #left-border{
     border-left: 4px solid #ec2F4B;
@@ -65,9 +64,6 @@ p{
 #goals{
     background-color: #B2FEFA;
 }
-/* .half-width img{
-    width: 100%;
-} */
 .section-hight{
     height: 600px;
 }
@@ -80,12 +76,13 @@ p{
     height: 600px;
 }
 
-.portfolio-section img{
+#projects-section img{
     float: left;
     width: 29%;
     margin: 10px;
     padding: 10px;
     border: 2px solid gray;
+    border-radius: 10px;
 }
 #projects-section{
     height: 400px;
