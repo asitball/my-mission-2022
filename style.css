@@ -3,8 +3,14 @@ body{
     margin: 0% 5%;
 }
 h1{
-    font-size: 60px;
-    font-weight:bold;
+    font-size: 50px;
+    font-weight:700;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 25px;
 }
 p{
     font-size: 20px;
@@ -12,21 +18,22 @@ p{
     text-align: justify;
 }
 .text-highlight{
-    color: blue;
+    color: #009FFF;
 }
 .half-width{
-    width: 40%;
+    width: 41%;
     margin: 15px;
     padding: 25px;
     float: left;
+    flex-direction: row;
 }
 #left-border{
-    border-left: 4px solid red;
+    border-left: 4px solid #ec2F4B;
     height: 100%;
 }
 .anchor-button{
     text-decoration: none;
-    background-color:blue;
+    background-color:#000C40;
     color: white;
     padding: 10px 20px;
     border-radius: 5px;
@@ -50,28 +57,36 @@ p{
     width: 150px;
 }
 #mission{
-    background-color: aquamarine;
+    background-color: #EAEAEA;
 }
 #vission{
-    background-color: antiquewhite;
+    background-color: #C9D6FF;
 }
 #goals{
-    background-color: #6e3ecc;
+    background-color: #B2FEFA;
 }
 /* .half-width img{
     width: 100%;
 } */
+.section-hight{
+    height: 600px;
+}
  .project-img{
      width: 100%;
  }
+
 .third-section{
-    margin: 500px 0px;
+    margin-top: 500px;
+    height: 600px;
 }
+
 .portfolio-section img{
     float: left;
-    width: 28%;
+    width: 29%;
     margin: 10px;
     padding: 10px;
     border: 2px solid gray;
-    border-radius: ;
+}
+footer{
+    background-color: rebeccapurple;
 }
